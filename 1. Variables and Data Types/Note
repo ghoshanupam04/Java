@@ -1,0 +1,33 @@
+Output Syntax:
+System.out.println("...")  
+
+'println' means next line or if want to print in same line we can use only 'print' syntax.
+
+In Vs Code we just write Sout + tab = System.out.println("...")  //Shortcut 
+
+In Java single line comment = //
+In Java multi line comment= /* code */
+
+Variables:
+Variables are the container where values are Stored.
+eg. a=25 //here a is a variables and 'a' stored 25 value
+
+//Types Of Variables:
+int = 1,2,3 all Number values.
+String= "Hello Coders", "..." Values which are in the " ".
+Boolean= true and false.
+char= character values like 'a','b','z'.
+Float= . values like 15.25, 7.3 etc.
+
+//Data Types: 
+There are 2 types of Data types are present in java Programming Language.
+
+1> Primitive Datatype: Those Data Types are already declared in this language. Eg- char, int, byte etc.
+In java there are 8 Primitive Data types are Present. Eg- char,byte,int,float,boolean,double,short,long.
+
+2> Non-Primitive Datatype: Those Data types which are created or customized by the user. Eg- array,class,string.
+
+
+//Java Input:
+java.util.*;
+Scanner sc=new Scanner(System.in)

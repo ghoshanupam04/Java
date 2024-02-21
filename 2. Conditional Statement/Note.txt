@@ -1,0 +1,36 @@
+Conditional Statement:
+Conditional Statement means when we create some condition in code and the code is run with Condition wise.
+
+In java Programming  the conditional statements are If-else if, else and  Switch-case.
+
+**if-else Statement:
+
+if(condition){
+    print the condition things.
+}
+else if(condition){           // when if statement does't mach then else-if statement run 
+    print the condition things.
+}
+else{
+    print the condition things.
+}
+
+**Switch-case
+
+switch(condition){   //declare the condition and the test the condition and print 
+    case1(){
+        print
+        break();
+    }
+     case2(){
+        print
+        break();
+    }
+     case3(){
+        print
+        break();
+    }
+    default{
+        print
+    }
+}

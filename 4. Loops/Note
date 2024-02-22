@@ -1,0 +1,57 @@
+//What is Loop:
+Loops means when some tasks execute multiple time repeat  or some conditional time and mention time repeat.
+There are three loops in Java - i> for loop, ii> While loop, iii> do while loop.
+
+// i> for loop:
+for(int i=1;i<10;i++){  
+    System.out.println('content');
+}
+
+//Describe the total for-loop schema
+for is the name of the loop. 
+int = type of declared variable 
+i = counter variable.
+i=1 = variable starts with 1.
+i<10 = when i is less than 10 until then i was print.
+i++ / i+1 = then i was update.
+System.out.println('content')= in the foe loop after given the condition and then we can write the print Statement.
+
+//What is Infinite Loop:
+when the loop execute repeatedly but not stop, then we can say that those loops are infinite loop.
+ex- for(int i=1; i++){  
+    System.out.println('content');
+    }
+
+// ii> While Loop :
+int i=1;
+while(i<10){
+    System.out.println('print content');
+    i++;
+}
+
+//Describe the total while-loop schema:
+int i=1 = declare the counter variable.
+while = the loop which we are use.
+(i<10) = in this while loop we can enter the condition.
+System.out.println('print content') = after declare the the loop and then we can print the content.
+i++ = update that.
+
+// iii> Do-while loop:
+int i = 1;
+do {
+    System.out.print(i + ", ");
+    i++;
+} while (i <= 10);
+
+//Describe the total Do-while loop Schema:
+int i=1 = declare the counter variable.
+do = declare the content which we want to print.
+i++ = update.
+while= declare the condition.
+
+***** Different between While and do-while loop *****
+-> In while loop at first check the condition and then print, but in do-while loop at first print the content 
+and then check the condition.    
+
+
+

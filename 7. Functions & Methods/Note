@@ -1,0 +1,31 @@
+    **Function**
+->  Function is a 'block of codes'. Function take input, create operations and give the output.
+
+    **Arguments**
+->  In functions, the inputs are arguments.
+ex- function addTwoNum(int a, int b)
+a, b are the arguments.
+
+**In JAVA we can use camel case to write the function name**
+ex- public static void PrintThis() //this is a camel case. Because we can identify easily
+
+**Describe the function and how it works**
+class Main{
+    public static void PrintTheFunction(String a){ //here we can declare the function, type is String 'a' is argument
+        System.out.println(a); //here er can print the argument
+        return; //return that 
+    }
+    public static void main(String[]args){
+        PrintTheFunction('...'); //call the function
+    }
+}
+
+void means 'NULL'
+String is a type
+'a' is argument
+
+**Functions impact on Memory**
+In memory functions are stored like a stack Structure. 
+'Stack' means one by one stored.
+
+"When something save in the stack that is called 'stack frame'"

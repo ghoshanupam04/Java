@@ -1,0 +1,11 @@
+**Array**
+Array is a Non-Premitive data type. Array is a list of items, where we can store multiple values.
+
+Define a Array:
+type[]arrayname=new type[size]
+
+here new use create a free space in memory.
+In java index start with number 0, thats called java is zero index like c++.
+
+Define array with different way
+type arrayname[]={.....} // the second way

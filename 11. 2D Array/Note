@@ -1,0 +1,11 @@
+**2D Array**
+Basically 2D array is Similar as Matrix in Math.
+
+0   0   1   2   3
+1   4   5   6   7
+2   8   9   10  11
+
+Here 0 0,1,2 are columns and 0,1,2,3 are Rows.
+
+// Declare 2D Array is Code.
+type [][] 2dArray = new type [row] [columns];

@@ -1,0 +1,12 @@
+**String**
+**Strings are Immutable** That could not change in memory.
+When we define a String then We use 'String'  datatype and the enter the values.
+ex. String name = "My Name";
+
+1> .length()=> To check the Length of the String.
+2> + => Use to Concat the two String.
+3> toppercase=> Create uppercase.
+4> lowecase => create lowercase.
+5> charat => print all word particularly.
+6> Compareto => Compare two String (it totally depends on String not length)
+7> Substring => Print only particular string.
